@@ -5,7 +5,9 @@ AegisBrowse is a real-time, cloud-native Secure Browser Isolation (SBI) system t
 It prevents malware, phishing, drive-by downloads, and zero-day browser exploits from ever touching the endpoint.
 
 
-![Sample][(https://github.com/Ishan-creed/AegisBrowse-Cloud-Browser-Isolation-Platform/blob/main/Screenshot%202025-12-27%20at%2012.13.01.png)]
+![Sample](https://github.com/Ishan-creed/AegisBrowse-Cloud-Browser-Isolation-Platform/blob/main/Screenshot%202025-12-27%20at%2012.13.01.png)
+![Sample2](https://github.com/Ishan-creed/AegisBrowse-Cloud-Browser-Isolation-Platform/blob/main/Screenshot%202025-12-27%20at%2012.08.34.png)
+
 ## 🔐 Architecture
 
 User Browser
