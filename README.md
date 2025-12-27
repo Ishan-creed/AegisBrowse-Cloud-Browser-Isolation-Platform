@@ -6,7 +6,7 @@ It prevents malware, phishing, drive-by downloads, and zero-day browser exploits
 
 
 ![Sample](https://github.com/Ishan-creed/AegisBrowse-Cloud-Browser-Isolation-Platform/blob/main/Screenshot%202025-12-27%20at%2012.13.01.png)
-![Sample2](https://github.com/Ishan-creed/AegisBrowse-Cloud-Browser-Isolation-Platform/blob/main/Screenshot%202025-12-27%20at%2012.08.34.png)
+![Sample2](https://github.com/Ishan-creed/AegisBrowse-Cloud-Browser-Isolation-Platform/blob/main/Architecture.png)
 
 ## 🔐 Architecture
 
